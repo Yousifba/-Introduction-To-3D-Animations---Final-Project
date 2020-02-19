@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Dev/Project/Introduction-To-3D-Animations---Assignment-3-master/cmake/DownloadProject.CMakeLists.cmake.in
+C:/Dev/Project/Introduction-To-3D-Animations---Assignment-3-master/cmake/DownloadProject.cmake
+C:/Dev/Project/Introduction-To-3D-Animations---Assignment-3-master/cmake/LibiglDownloadExternal.cmake
+C:/Dev/Project/Introduction-To-3D-Animations---Assignment-3-master/tutorial/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.16/Modules/CMakeParseArguments.cmake

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Dev\Project\Introduction-To-3D-Animations---Assignment-3-master\tutorial\sandBox\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Dev\Project\Introduction-To-3D-Animations---Assignment-3-master\tutorial\sandBox\inputManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Dev\Project\Introduction-To-3D-Animations---Assignment-3-master\tutorial\sandBox\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{29FA86CE-8828-3503-B5C7-1743EE1B9707}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{23F4ED41-BC7C-3530-92D9-84B63D01CC80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
